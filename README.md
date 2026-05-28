@@ -3,7 +3,7 @@
 Interaktywna aplikacja webowa służąca do przestrzennej i statystycznej analizy rynku nieruchomości mieszkaniowych w Poznaniu. Projekt łączy geoprzetwarzanie z dynamiczną wizualizacją danych, ułatwiając identyfikację trendów cenowych w poszczególnych dzielnicach.
 
 ## Wersja demonstracyjna (Live)
-**[KLIKNIJ TUTAJ, ABY OTWORZYĆ DZIAŁAJĄCĄ APLIKACJĘ](TUTAJ_WKLEJ_LINK_Z_SHINYAPPS_IO)**
+**[KLIKNIJ TUTAJ, ABY OTWORZYĆ DZIAŁAJĄCĄ APLIKACJĘ](https://majaskoz.shinyapps.io/raport/)**
 
 ---
 
